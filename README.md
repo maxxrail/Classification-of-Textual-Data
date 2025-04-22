@@ -65,10 +65,14 @@ The 20 Newsgroups dataset is automatically fetched by scikit‑learn.
 - **Experiment 4**: Decision tree classification analysis.
 - **Experiment 5**: Linear regression on continuous targets.
 - **Experiment 6**: Advanced regression techniques.
-- **Experiment 7**: [Add description here]
-- **Experiment 8**: [Add description here]
+- **Experiment 7**: Evaluate multiclass regression performance over an increasing number of newsgroup classes (top‑k accuracy scoring), results plotted in `experiment_7_results.png`
+- **Experiment 8**: Plot training and validation loss curves for multiclass regression over iterations, graph saved as `multiclass_loss.png`
 - **Experiment 9**: Heatmap of top features for each class in the 20 Newsgroups dataset (`experiment_9_heatmap_results.png`).
 
-## Author
-Group 76
+## Authors
+Ben Hepditch 
+Rudolf Kischer
+Maxx Railton
+
+
 
